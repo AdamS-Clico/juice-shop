@@ -35,7 +35,7 @@ applications!
 For a detailed introduction, full list of features and architecture overview please visit the official project page:
 <https://owasp-juice.shop>
 
-## Table of contentsaa
+## Table of contentsaaaaa
 
 - [Setup](#setup)
     - [From Sources](#from-sources)
