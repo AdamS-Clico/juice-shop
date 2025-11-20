@@ -26,7 +26,7 @@ TRIGGeterER
 
 OWASP Juice Shop is probably the most modern and sophisticated insecure web application! It can be used in security
 trainings, awareness demos, CTFs and as a guinea pig for security tools! Juice Shop encompasses vulnerabilities from the
-entire
+entirea
 [OWASP Top Ten](https://owasp.org/www-project-top-ten) along with many other security flaws found in real-world
 applications!
 
@@ -35,7 +35,7 @@ applications!
 For a detailed introduction, full list of features and architecture overview please visit the official project page:
 <https://owasp-juice.shop>
 
-## Table of contentsaaaaa
+## Table of contentsa
 
 - [Setup](#setup)
     - [From Sources](#from-sources)
